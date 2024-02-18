@@ -1,9 +1,10 @@
 # Hello, internet 👋!
 ```swift
 struct Me: Developer {
-  let name = ["J0N1X", "Ananas🍍"]
+  let name = "J0N1X Ananas🍍"
   let pronouns = ["ana", "nas"]
-  let languages = ["English", "Deutsch", "Français"]
+  let languages = ["English", "Deutsch", "Swift"]
+  let skills = "just a bit of SwiftUI, …. iOS Developer stuff."
 }
 ```
 
