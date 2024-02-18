@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello, internet 👋!
+```swift
+struct Person {
+
+}
+```
 
 <!--
 **J0N1X/J0N1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
