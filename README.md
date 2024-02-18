@@ -1,7 +1,9 @@
 # Hello, internet 👋!
 ```swift
-struct Person {
-
+struct Me: Developer {
+  let name = ["J0N1X", "Ananas🍍"]
+  let pronouns = ["ana", "nas"]
+  let languages = ["English", "Deutsch", "Français"]
 }
 ```
 
